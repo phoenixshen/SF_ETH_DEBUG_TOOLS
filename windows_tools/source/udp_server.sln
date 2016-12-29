@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "udp_server", "udp_server.vcxproj", "{18DAA535-3376-48CE-B110-061CD150DE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		132|Win32 = 132|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DAA535-3376-48CE-B110-061CD150DE8E}.132|Win32.ActiveCfg = Debug|Win32
+		{18DAA535-3376-48CE-B110-061CD150DE8E}.132|Win32.Build.0 = Debug|Win32
+		{18DAA535-3376-48CE-B110-061CD150DE8E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18DAA535-3376-48CE-B110-061CD150DE8E}.Debug|Win32.Build.0 = Debug|Win32
+		{18DAA535-3376-48CE-B110-061CD150DE8E}.Release|Win32.ActiveCfg = Release|Win32
+		{18DAA535-3376-48CE-B110-061CD150DE8E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
